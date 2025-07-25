@@ -1,5 +1,3 @@
-# Services Guide
-
 This Services Guide contains provisions that define and clarify the services described in the quote provided to you. The Services Guide describes all managed services provided by 2Fifteen Tech. This is a comprehensive guide to all services available to all customers. We do not provide every service listed here to every customer. Please refer to your quote for specific services provided.
 
 #### Initial Discovery Phase
