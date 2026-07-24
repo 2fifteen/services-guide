@@ -235,7 +235,7 @@ Part of our Managed Services includes administration of Google Workspace and / o
 
 - **Automated Monitoring:** Our automated monitoring runs all the time – 24/7, every day of the year. We're always keeping an eye on things.
 - **Business Hours Support:** Our business hours are Monday to Friday, 8:30 AM to 5:30 PM Mountain Time, excluding holidays. The holidays 2Fifteen Tech is closed are listed here - [https://215.tech/service](https://215.tech/service).
-- **Response Time:** If something goes wrong, we aim to start tackling it within 1 business hour from the time you let us know through our official support channels (email, SMS, or phone - sent to our service desk). If someone reaches out outside of our support desk official channels, the response and resolution time may be longer.
+- **Response Time:** If something goes wrong, we aim to start tackling it within 1 business hour from the time you let us know through our official support channels (email, SMS, or phone - sent to our service desk). If someone reaches out outside of our support desk official channels, the response and resolution time may be longer. Per the Master Services Agreement, response time commitments do not apply during the Transition Exception period - the first 60 days following service commencement, or any off-boarding period.
 - **After-Hours Help:** We do not currently staff outside of our business hours, and cannot guarantee any after hours support. Any exceptions would be called out in your quote.
 - **Hourly Billing Details:** If your quote includes any hourly billing options, then we bill in 15-minute increments, rounding up to the nearest quarter hour. And there's a minimum charge of one hour for any help outside of business hours.
 
@@ -248,9 +248,9 @@ All project work, including custom implementations or professional services outs
 - **Initial Quote:** The fees for our services are as outlined in your Quote.
 - **Changes in Service Needs:** If your needs change (like more users or different services), your monthly fees will adjust accordingly automatically.
 - **Minimum Monthly Fees:** The initial fee in your Quote is the lowest you'll be billed each month. Even if you use fewer services or have fewer users, this minimum fee still applies, unless we both agree to lower it. Any changes must be in writing and agreed upon by both of us.
-- **Late Payment Fees:** If an invoice is not paid by the due date, interest will be added to the invoice. This interest will be 12% per year, calculated from the day after the payment was due until the day it is fully paid.
+- **Late Payment Fees:** Invoices unpaid for more than 15 days after the due date are subject to interest at 1% per month (or the maximum rate permitted by law, if lower), calculated on the overdue amount until it is fully paid.
 - **Possible Fee Increases:**
-  - **Our Increases:** We might need to raise our fees now and then. If it's more than a 5% increase from last year, we'll give you 60 days to decide if you want to continue or cancel our services. You're responsible for all fees and costs up until the cancellation date.
+  - **Our Increases:** We might need to raise our fees now and then. If it's more than a 5% increase from last year, we'll give you 60 days to decide if you want to continue or cancel our services. You're responsible for all fees and costs up until the cancellation date. Cancelling under this provision is not a termination without cause and will not incur the Termination Fee described in the Master Services Agreement.
   - **Third-Party Increases:** If our third-party providers hike their prices, we might need to pass those costs onto you. We don't control these increases, but we'll give you a heads-up.
   - **Note:** These third-party increases are separate from our own fee changes and won't count in the 5% increase limit.
 
